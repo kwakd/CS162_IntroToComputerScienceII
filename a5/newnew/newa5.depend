@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1512018025 source:c:\users\david\desktop\newa5\book.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Library.hpp"
+	"Patron.hpp"
+	"Book.hpp"
+	"Album.hpp"
+	"Movie.hpp"
+	"LibraryItem.hpp"
+
+1512017214 c:\users\david\desktop\newa5\library.hpp
+	<iostream>
+	<string>
+	<vector>
+	"Library.hpp"
+	"Patron.hpp"
+	"Book.hpp"
+	"Album.hpp"
+	"Movie.hpp"
+	"LibraryItem.hpp"
+
+1512017214 c:\users\david\desktop\newa5\patron.hpp
+	<iostream>
+	<string>
+	<vector>
+	"Library.hpp"
+	"Patron.hpp"
+	"Book.hpp"
+	"Album.hpp"
+	"Movie.hpp"
+	"LibraryItem.hpp"
+
+1512019248 c:\users\david\desktop\newa5\book.hpp
+	<iostream>
+	<string>
+	<vector>
+	"LibraryItem.hpp"
+
+1512017214 c:\users\david\desktop\newa5\libraryitem.hpp
+	<iostream>
+	<string>
+	<vector>
+	"Library.hpp"
+	"Patron.hpp"
+	"Book.hpp"
+	"Album.hpp"
+	"Movie.hpp"
+	"LibraryItem.hpp"
+
+1512017214 source:c:\users\david\desktop\newa5\library.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Library.hpp"
+	"Patron.hpp"
+	"Book.hpp"
+	"Album.hpp"
+	"Movie.hpp"
+	"LibraryItem.hpp"
+
+1512017214 source:c:\users\david\desktop\newa5\libraryitem.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Library.hpp"
+	"Patron.hpp"
+	"Book.hpp"
+	"Album.hpp"
+	"Movie.hpp"
+	"LibraryItem.hpp"
+
+1512016839 source:c:\users\david\desktop\newa5\newa5.cpp
+	"Library.hpp"
+	<iostream>
+	<string>
+	<vector>
+
+1512019184 c:\users\david\desktop\newa5\album.hpp
+	<iostream>
+	<string>
+	<vector>
+	"LibraryItem.hpp"
+
+1512018339 source:c:\users\david\desktop\newa5\album.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Library.hpp"
+	"Patron.hpp"
+	"Book.hpp"
+	"Album.hpp"
+	"LibraryItem.hpp"
+	"Movie.hpp"
+
+1512016831 source:c:\users\david\desktop\newa5\patron.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Library.hpp"
+	"Patron.hpp"
+	"Book.hpp"
+	"Album.hpp"
+	"LibraryItem.hpp"
+
+1512019248 c:\users\david\desktop\newa5\movie.hpp
+	<iostream>
+	<string>
+	<vector>
+	"LibraryItem.hpp"
+
+1512018995 source:c:\users\david\desktop\newa5\movie.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Movie.hpp"
+

@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1510624834 source:c:\users\david\desktop\newas4\circle.cpp
+	<iostream>
+	"shape.h"
+	"circle.h"
+
+1510630839 c:\users\david\desktop\newas4\shape.h
+
+1510624829 c:\users\david\desktop\newas4\circle.h
+	"shape.h"
+
+1510625408 source:c:\users\david\desktop\newas4\newmainas4.cpp
+	<iostream>
+	"shape.h"
+	"circle.h"
+	"rectangle.h"
+	"square.h"
+
+1510629159 c:\users\david\desktop\newas4\rectangle.h
+	"shape.h"
+
+1510625110 source:c:\users\david\desktop\newas4\rectangle.cpp
+	<iostream>
+	"shape.h"
+	"rectangle.h"
+
+1510624500 source:c:\users\david\desktop\newas4\shape.cpp
+	<iostream>
+	"shape.h"
+
+1510628169 c:\users\david\desktop\newas4\square.h
+	"shape.h"
+	"rectangle.h"
+
+1510629572 source:c:\users\david\desktop\newas4\square.cpp
+	<iostream>
+	"shape.h"
+	"square.h"
+	"rectangle.h"
+

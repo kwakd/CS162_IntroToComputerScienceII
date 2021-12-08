@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1512020654 source:c:\users\david\desktop\newa5\book.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Library.hpp"
+	"Patron.hpp"
+	"Book.hpp"
+	"Album.hpp"
+	"Movie.hpp"
+	"LibraryItem.hpp"
+
+1512021752 c:\users\david\desktop\newa5\library.hpp
+	<string>
+	<vector>
+	"Book.hpp"
+	"Album.hpp"
+	"Movie.hpp"
+	"Patron.hpp"
+
+1512017214 c:\users\david\desktop\newa5\patron.hpp
+	<iostream>
+	<string>
+	<vector>
+	"Library.hpp"
+	"Patron.hpp"
+	"Book.hpp"
+	"Album.hpp"
+	"Movie.hpp"
+	"LibraryItem.hpp"
+
+1512020947 c:\users\david\desktop\newa5\book.hpp
+	<iostream>
+	<string>
+	<vector>
+	"Library.hpp"
+	"Patron.hpp"
+	"Book.hpp"
+	"Album.hpp"
+	"Movie.hpp"
+	"LibraryItem.hpp"
+
+1512020654 c:\users\david\desktop\newa5\libraryitem.hpp
+	<iostream>
+	<string>
+	<vector>
+	"Library.hpp"
+	"LibraryItem.hpp"
+	"Patron.hpp"
+	"Book.hpp"
+	"Album.hpp"
+	"Movie.hpp"
+
+1512021787 source:c:\users\david\desktop\newa5\library.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Library.hpp"
+	"Patron.hpp"
+	"Book.hpp"
+	"Album.hpp"
+	"Movie.hpp"
+	"LibraryItem.hpp"
+
+1512017214 source:c:\users\david\desktop\newa5\libraryitem.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Library.hpp"
+	"Patron.hpp"
+	"Book.hpp"
+	"Album.hpp"
+	"Movie.hpp"
+	"LibraryItem.hpp"
+
+1512021757 source:c:\users\david\desktop\newa5\newa5.cpp
+	"Library.hpp"
+	<iostream>
+	<string>
+	<vector>
+
+1512021581 c:\users\david\desktop\newa5\album.hpp
+	<iostream>
+	<string>
+	<vector>
+	"Library.hpp"
+	"Patron.hpp"
+	"Book.hpp"
+	"Album.hpp"
+	"Movie.hpp"
+	"LibraryItem.hpp"
+
+1512020947 source:c:\users\david\desktop\newa5\album.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Library.hpp"
+	"Patron.hpp"
+	"Book.hpp"
+	"Album.hpp"
+	"Movie.hpp"
+	"LibraryItem.hpp"
+
+1512017214 source:c:\users\david\desktop\newa5\patron.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Library.hpp"
+	"Patron.hpp"
+	"Book.hpp"
+	"Album.hpp"
+	"Movie.hpp"
+	"LibraryItem.hpp"
+
+1512021015 c:\users\david\desktop\newa5\movie.hpp
+	<iostream>
+	<string>
+	<vector>
+	"Library.hpp"
+	"Patron.hpp"
+	"Book.hpp"
+	"Album.hpp"
+	"LibraryItem.hpp"
+
+1512021036 source:c:\users\david\desktop\newa5\movie.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Library.hpp"
+	"Patron.hpp"
+	"Book.hpp"
+	"Album.hpp"
+	"Movie.hpp"
+	"LibraryItem.hpp"
+

@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1508292135 source:c:\users\david\desktop\a2\a2.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	"point.h"
+	"line.h"
+
+1508271117 c:\users\david\desktop\a2\point.h
+
+1508232041 source:c:\users\david\desktop\a2\point.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	"point.h"
+	"line.h"
+
+1508206989 source:c:\users\david\desktop\a2\untitled1.c
+
+1508292576 c:\users\david\desktop\a2\line.h
+
+1508292576 source:c:\users\david\desktop\a2\line.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	"point.h"
+	"line.h"
+
+1508223315 c:\users\david\desktop\a2\point.cpp
+	"point.h"
+	"line.cpp"
+	"line.h"
+	<stdio.h>
+	<math.h>
+
+1508221724 c:\users\david\desktop\a2\line.cpp
+	"line.h"
+	"point.h"
+	<stdio.h>
+	<math.h>
+

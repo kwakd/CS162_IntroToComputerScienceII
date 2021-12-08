@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1512016831 source:c:\users\david\desktop\newa5\book.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Library.hpp"
+	"Patron.hpp"
+	"Book.hpp"
+	"Album.hpp"
+	"LibraryItem.hpp"
+
+1512016831 c:\users\david\desktop\newa5\library.hpp
+	<iostream>
+	<string>
+	<vector>
+	"Library.hpp"
+	"Patron.hpp"
+	"Book.hpp"
+	"Album.hpp"
+	"LibraryItem.hpp"
+
+1512016831 c:\users\david\desktop\newa5\patron.hpp
+	<iostream>
+	<string>
+	<vector>
+	"Library.hpp"
+	"Patron.hpp"
+	"Book.hpp"
+	"Album.hpp"
+	"LibraryItem.hpp"
+
+1512016831 c:\users\david\desktop\newa5\book.hpp
+	<iostream>
+	<string>
+	<vector>
+	"Library.hpp"
+	"Patron.hpp"
+	"Book.hpp"
+	"Album.hpp"
+	"LibraryItem.hpp"
+
+1512016831 c:\users\david\desktop\newa5\libraryitem.hpp
+	<iostream>
+	<string>
+	<vector>
+	"Library.hpp"
+	"Patron.hpp"
+	"Book.hpp"
+	"Album.hpp"
+	"LibraryItem.hpp"
+
+1512016831 source:c:\users\david\desktop\newa5\library.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Library.hpp"
+	"Patron.hpp"
+	"Book.hpp"
+	"Album.hpp"
+	"LibraryItem.hpp"
+
+1512016831 source:c:\users\david\desktop\newa5\libraryitem.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Library.hpp"
+	"Patron.hpp"
+	"Book.hpp"
+	"Album.hpp"
+	"LibraryItem.hpp"
+
+1512016746 source:c:\users\david\desktop\newa5\newa5.cpp
+	"Library.hpp"
+	<iostream>
+	<string>
+	<vector>
+
+1512016832 c:\users\david\desktop\newa5\album.hpp
+	<iostream>
+	<string>
+	<vector>
+	"Library.hpp"
+	"Patron.hpp"
+	"Book.hpp"
+	"Album.hpp"
+	"LibraryItem.hpp"
+
+1512016831 source:c:\users\david\desktop\newa5\album.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Library.hpp"
+	"Patron.hpp"
+	"Book.hpp"
+	"Album.hpp"
+	"LibraryItem.hpp"
+
+1512016831 source:c:\users\david\desktop\newa5\patron.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Library.hpp"
+	"Patron.hpp"
+	"Book.hpp"
+	"Album.hpp"
+	"LibraryItem.hpp"
+
